@@ -11,11 +11,11 @@ const Footer = () => {
       >
         <FaInstagram size={24} />
       </a>
-      <a href="https://x.com/GirishWad20716?t=kc7z-OLJhdHYzYU6RTr12w&s=08" target="_blank" rel="noopener noreferrer">
+      <a href="https://twitter.comhttps://x.com/HuzaifDev" target="_blank" rel="noopener noreferrer">
         <FaXTwitter size={24} />
       </a>
       <a
-        href="https://www.linkedin.com/in/girish-wadhwani-5564a2227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        href="https://www.linkedin.com/in/girish-wadhwani-5564a2227/"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -24,3 +24,5 @@ const Footer = () => {
     </footer>
   );
 };
+
+export default Footer;
