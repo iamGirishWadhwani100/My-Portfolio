@@ -18,8 +18,7 @@ const Footer = () => {
         href="https://www.linkedin.com/in/girish-wadhwani-5564a2227/"
         target="_blank"
         rel="noopener noreferrer"
-      >
-        <FaLinkedin size={24} />
+      >>
       </a>
       <a
         href="https://medium.com/@girishwadhwani100"
