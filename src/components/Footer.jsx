@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="w-full py-4 bg-black-100/55 text-white flex justify-center gap-6">
       <a
-        href="https://www.instagram.com/iamgirishwadhwani_100?igsh=cGhnemx6dnhmdTly"
+        href="https://www.instagram.com/huzaifahmedz/"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -24,3 +24,5 @@ const Footer = () => {
     </footer>
   );
 };
+
+export default Footer;
